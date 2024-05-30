@@ -10,7 +10,7 @@ from sklearn.metrics import mean_squared_error
 
 mlflow.set_tracking_uri("http://127.0.0.1:5000")
 mlflow.set_experiment("hw2-random-forest-hyperopt")
-
+mlflow.sklearn.autolog()
 
 def load_pickle(filename: str):
     with open(filename, "rb") as f_in:
