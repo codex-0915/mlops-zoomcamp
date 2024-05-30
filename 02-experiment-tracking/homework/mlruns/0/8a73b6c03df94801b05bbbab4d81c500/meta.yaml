@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/8a73b6c03df94801b05bbbab4d81c500/artifacts
+end_time: 1717082550439
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a73b6c03df94801b05bbbab4d81c500
+run_name: grandiose-eel-609
+run_uuid: 8a73b6c03df94801b05bbbab4d81c500
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717082534075
+status: 3
+tags: []
+user_id: codespace

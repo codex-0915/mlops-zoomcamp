@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/28ccd675083247c8be63d3674f33da08/artifacts
+end_time: 1717085544528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28ccd675083247c8be63d3674f33da08
+run_name: adventurous-ray-263
+run_uuid: 28ccd675083247c8be63d3674f33da08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717085527280
+status: 3
+tags: []
+user_id: codespace

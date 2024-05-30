@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/8e915fd7c8bb44b5b5d715fc39f58268/artifacts
+end_time: 1717086073790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e915fd7c8bb44b5b5d715fc39f58268
+run_name: clean-jay-104
+run_uuid: 8e915fd7c8bb44b5b5d715fc39f58268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717086058380
+status: 3
+tags: []
+user_id: codespace

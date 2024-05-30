@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/0fcf757f401f4e6fbae9f4c0684f0703/artifacts
+end_time: 1717082785676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fcf757f401f4e6fbae9f4c0684f0703
+run_name: silent-ray-164
+run_uuid: 0fcf757f401f4e6fbae9f4c0684f0703
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717082770979
+status: 3
+tags: []
+user_id: codespace
